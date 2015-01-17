@@ -1,0 +1,12 @@
+C:\Users\shadow_dragon\Desktop\og\Unity Project\Projekt\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\Temp\bin\Debug\nunit.framework.dll
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\obj\Debug\Assembly-CSharp.dll
+C:\Users\shadow_dragon\Desktop\Projekt 1.3\obj\Debug\Assembly-CSharp.pdb

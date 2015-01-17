@@ -1,0 +1,12 @@
+c:\users\shadow_dragon\documents\visual studio 2013\Projects\GAmOG\GAmOG\bin\Debug\GAmOG.exe.config
+c:\users\shadow_dragon\documents\visual studio 2013\Projects\GAmOG\GAmOG\bin\Debug\GAmOG.exe
+c:\users\shadow_dragon\documents\visual studio 2013\Projects\GAmOG\GAmOG\bin\Debug\GAmOG.pdb
+c:\users\shadow_dragon\documents\visual studio 2013\Projects\GAmOG\GAmOG\obj\Debug\GAmOG.csprojResolveAssemblyReference.cache
+c:\users\shadow_dragon\documents\visual studio 2013\Projects\GAmOG\GAmOG\obj\Debug\GAmOG.exe
+c:\users\shadow_dragon\documents\visual studio 2013\Projects\GAmOG\GAmOG\obj\Debug\GAmOG.pdb
+C:\Users\shadow_dragon\Documents\Visual Studio 2013\Projects\GAmOG\GAmOG\bin\Debug\Microsoft.Experimental.Collections.dll
+C:\Users\shadow_dragon\Documents\Visual Studio 2013\Projects\GAmOG\GAmOG\bin\Debug\Microsoft.Experimental.Collections.xml
+C:\Users\shadow_dragon\Desktop\Projekt 1.2\Assets\GAmOG\GAmOG\bin\Debug\GAmOG.exe.config
+C:\Users\shadow_dragon\Desktop\Projekt 1.2\Assets\GAmOG\GAmOG\obj\Debug\GAmOG.exe
+C:\Users\shadow_dragon\Desktop\Projekt 1.2\Assets\GAmOG\GAmOG\obj\Debug\GAmOG.pdb
+C:\Users\shadow_dragon\Desktop\Projekt 1.2\Assets\GAmOG\GAmOG\obj\Debug\GAmOG.csprojResolveAssemblyReference.cache
